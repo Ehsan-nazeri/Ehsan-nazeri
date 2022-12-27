@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ehsan-nazeri/static/css/main.ecbce21a.css",
+    "main.js": "/Ehsan-nazeri/static/js/main.18b51634.js",
+    "static/media/Kino_Атаман.mp3": "/Ehsan-nazeri/static/media/Kino_Атаман.72c7507f60fc6285f48e.mp3",
+    "static/media/aviny-700.ttf": "/Ehsan-nazeri/static/media/aviny-700.3d3e2505dd46057ae474.ttf",
+    "static/media/bg.jpg": "/Ehsan-nazeri/static/media/bg.af3b59c23f18f7a4b873.jpg",
+    "static/media/aviny-700.woff": "/Ehsan-nazeri/static/media/aviny-700.e1230ef236676c23a37c.woff",
+    "static/media/mySelf.png.jpg": "/Ehsan-nazeri/static/media/mySelf.png.766a0fd6b123e32c84aa.jpg",
+    "static/media/aviny-700.eot": "/Ehsan-nazeri/static/media/aviny-700.f7b2854b69f02d33d7a3.eot",
+    "static/media/aviny-700.woff2": "/Ehsan-nazeri/static/media/aviny-700.87a69d7231da4579fedc.woff2",
+    "static/media/ehsan_nazeri.pdf": "/Ehsan-nazeri/static/media/ehsan_nazeri.21f4de83cf556da5e881.pdf",
+    "static/media/azarmehr-400.woff": "/Ehsan-nazeri/static/media/azarmehr-400.e249911db7b277c52ba5.woff",
+    "static/media/azarmehr-400.ttf": "/Ehsan-nazeri/static/media/azarmehr-400.4b614ba9bcf7cbba4d35.ttf",
+    "static/media/azarmehr-400.woff2": "/Ehsan-nazeri/static/media/azarmehr-400.0fb16ddc31bd591efc30.woff2",
+    "static/media/logo.png": "/Ehsan-nazeri/static/media/logo.60a49cb85be694657176.png",
+    "static/media/azarmehr-400.eot": "/Ehsan-nazeri/static/media/azarmehr-400.a20edeb3705aa1f7626b.eot",
+    "index.html": "/Ehsan-nazeri/index.html",
+    "main.ecbce21a.css.map": "/Ehsan-nazeri/static/css/main.ecbce21a.css.map",
+    "main.18b51634.js.map": "/Ehsan-nazeri/static/js/main.18b51634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecbce21a.css",
+    "static/js/main.18b51634.js"
+  ]
+}
